@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-On-Google-Playstore
+We'll use the Google Playstore dataset for our analysis. The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market! you can find the raw data &amp; results here: https://www.kaggle.com/lava18/google-play-store-apps. (👈 Click to Download)
